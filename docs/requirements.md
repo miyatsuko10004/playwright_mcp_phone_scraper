@@ -53,7 +53,7 @@ Excelファイルに記載された企業名リストを基に、Playwright MCP�
 
 ## 5. 技術スタック
 
-*   Python
+*   Python (venvの使用を推奨)
 *   Playwright (Playwright MCP)
 *   Pandas (Excelファイルの読み書き)
 *   Openpyxl (Excelファイルの読み書き)
